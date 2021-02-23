@@ -1,5 +1,14 @@
 ### WeBeR AlVeS DoS SaNtOs 👋
 
+#### Minha relação com a programação começou com 20 anos de idade. Desenvolvi minha primeira aplicação em Delphi e meu primeiro embarcado foi em um Palmtop com Superwabba.
+
+#### Minhas principais competências atualmente são:
+
+- Angular 9
+- Spring Boot
+- Golang
+- Assembly MSP430
+- Java
 
 
 <!--
