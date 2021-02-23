@@ -1,5 +1,6 @@
 ### WeBeR AlVeS DoS SaNtOs 👋
 
+<!--
 #### Minha relação com a programação começou com 20 anos de idade. Desenvolvi minha primeira aplicação em Delphi e meu primeiro embarcado foi em um Palmtop com Superwabba.
 
 #### Minhas principais competências atualmente são:
@@ -9,7 +10,7 @@
 - Golang
 - Assembly MSP430
 - Java
-
+-->
 
 <!--
 **Pinablink/Pinablink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
