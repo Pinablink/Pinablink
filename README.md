@@ -1,4 +1,5 @@
 ### WeBeR AlVeS DoS SaNtOs 👋
+<a href="www.linkedin.com/in/weberalvessantos">![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--
 #### Minha relação com a programação começou com 20 anos de idade. Desenvolvi minha primeira aplicação em Delphi e meu primeiro embarcado foi em um Palmtop com Superwabba.
