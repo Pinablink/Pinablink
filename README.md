@@ -4,8 +4,8 @@ Passa ae depois! Estou melhorando a casa a cada dia!
 
 </br>
 
-<a href="https://www.linkedin.com/in/weberalvessantos">![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://twitter.com/pinablink">![Alt text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/weberalvessantos">![Alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a> 
+<a href="https://twitter.com/pinablink">![Alt text](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)</a>
 
 <!--
 #### Minha relação com a programação começou com 20 anos de idade. Desenvolvi minha primeira aplicação em Delphi e meu primeiro embarcado foi em um Palmtop com Superwabba.
